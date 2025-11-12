@@ -108,7 +108,7 @@ Systemic games have no player limit, so that the bus may require several physica
 <img src="https://www.microelectronicjb.com/wp-content/uploads/2022/04/IMG_20220404_162818_550-scaled.jpg"
      alt="3D simulation of the base of the pedestals minimum version to be able to connect on a table"
      width="800">
-     3D simulation of the base of the pedestals minimum version to be able to connect on a table
+     Passive bus version
 
 <b>Hello world!</b>
 
