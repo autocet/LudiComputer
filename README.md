@@ -14,13 +14,17 @@ relaxed workstations,
 robotics that make humans work 
 and in general systems where the important thing is to have been the designer and/or builder of the game machine itself.
 
+<img src="image/ludicoputer03.jpg" alt="LudiComputer" width="800">
+
 <b>The S80 Bus</b>
 
 The LudiComputers with S80 base connector are units that communicate with each other through one or more central bases, called nexus.
 The nexus are electrically neutral, without power and havent only an LED that indicates the presence of energy on the bus supplied by one of the participants in the game. 
 This topology modifies the classic connection form of the nexus, which instead of being on a battery, can form a flat extended structure on the game board, like domino tiles.
 
-<img src="image/ludicoputer03.jpg" alt="LudiComputer" width="800">
+<img src="https://www.microelectronicjb.com/wp-content/uploads/2021/11/ResetLC01L.jpg"
+     alt="Logic can work despite having neither energy nor intelligence"
+     width="800">
 
 The pin connector, as seen in the previous photo, corresponds to what gamer devices should have, they are cheaper and easier to obtain. (Diotronic sells it, Barcelona - Spain) The links incorporate sockets where each link connects three sockets and a quarter of male pins for interconnection with the following links.
 
