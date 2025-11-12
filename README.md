@@ -113,6 +113,5 @@ This is an idea I want to share, not only in the proposed S80 format. Will be de
      alt="Hello world!"
      width="800">
 
-<b>Tots els continguts d’aquesta web estan sota la llicència CREATIVE COMMONS Reconeixement – Compartir Igual (by-sa)</b>
-<b>Since 2021</b>
+<b>© Jordi Breu, 2021. This article is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</b>
 
