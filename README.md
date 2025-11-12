@@ -1,5 +1,5 @@
 # LudiComputer
-An easy way to build own personal computers, in an 80 pin, 2mm pitch, based bus
+An easy way to build own personal computers, in an 80 pin, 2mm pitch, in my own S80 based bus
 
 It is an electronic unit built by the player himself
 
