@@ -8,8 +8,7 @@ It is not just about playing, but also, and explicitly, about building systemic 
 
 In practice and as objectives, LudiComputers are: 
 fantastic calculators, 
-fun computers, 
-chaotic computers, 
+fun and chaotic computers, 
 relaxed workstations, 
 robotics that make humans work 
 and in general systems where the important thing is to have been the designer and/or builder of the game machine itself.
