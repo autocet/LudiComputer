@@ -105,7 +105,7 @@ Systemic games have no player limit, so that the bus may require several physica
 
 <b>Hello world!</b>
 
-This is an idea I want to share, not only in the proposed S80 format. Will be developing the same idea for the S100 bus, a Retro versión of the non profit proposal, electronics adventure of the selve contructing computer.
+This LudiComputer concept expressed in this article is mentioned without the intention of invading what other projects have been able to express in a similar way. This work has been done freely and anonymously since 2021 and should not go against what third parties have done without the knowledge of my work. In this sense, shared use is allowed without its development going against mine or beyond the correct non-commercial use, without the intention of economic benefit, neither mine nor that of third parties.
 
 <b>Open to the LudiComputer experience!</b>
 
