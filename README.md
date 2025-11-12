@@ -19,4 +19,5 @@ The LudiComputers with S80 base connector are units that communicate with each o
 The nexus are electrically neutral, without power and havent only an LED that indicates the presence of energy on the bus supplied by one of the participants in the game. 
 This topology modifies the classic connection form of the nexus, which instead of being on a battery, can form a flat extended structure on the game board, like domino tiles.
 
-A resume here https://www.microelectronicjb.com/ludicomputer/  (in català) provisional, until full editing repository.
+<img src="image/ludicoputer03.jpg" alt="LudiComputer" width="800">
+
