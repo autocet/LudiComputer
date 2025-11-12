@@ -88,7 +88,7 @@ The thickness of the printed circuit board must be the standard 1.66 millimeters
 <img src="https://www.microelectronicjb.com/wp-content/uploads/2025/07/footprintS80.png"
      alt="3D simulation of the base of the pedestals minimum version to be able to connect on a table"
      width="800">
-     3D simulation of the base of the pedestals minimum version to be able to connect on a table
+     Detail of the pin distribution on the corner of the board in a centered manner
 
 <b>The energy game</b>
 
