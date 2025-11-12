@@ -62,7 +62,8 @@ The designer must pay close attention to the location of pin 1, believe me, it i
 <b>Division by systemic game categories</b>
 
 A LudiComputer S80 game base can be part of a communication protocol game depending on what the rules of the proposed game impose. In other words, depending on the game needs, the base will need to be of a more or less advanced category.
-<br>
+
+
 Six categories are defined:<br>
 LC-0 Communications, radio links<br>
 LC-1 Logical or abstract games<br>
