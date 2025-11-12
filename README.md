@@ -44,6 +44,11 @@ The protocol should be able to allow partial compositions of the connector, so t
 
 With all that has been said so far, it is very easy to imagine a system with fewer pins and smaller dimensions. However, for now, this format has been chosen to be able to make the four resolutions compatible in a single system (8 bits, 16 bits, 32 bits, 64 bits)
 
+<img src="https://www.microelectronicjb.com/wp-content/uploads/2021/11/S80LC01L-1.jpg"
+     alt="S80 connector, 80 pins in 2 millimeter pitch and double row."
+     width="800">
+
+
 <b>3D Scalability</b>
 
 The designer must pay close attention to the location of pin 1, believe me, it is not trivial. In addition, two types of nexus plates have been provided, the passing and the rotating ones. There are also level-changing plates to form stacks or so-called Stacks. All this is mentioned in the rules of the game.
@@ -63,7 +68,7 @@ LC-5 Video games in remote mode
 <b>PCB dimensions for all LC-X S80</b>
 
 <img src="https://www.microelectronicjb.com/wp-content/uploads/2025/07/base_peanya.png"
-     alt="Simulació 3D de la base de les peanyes, versió mínima per poder connectar sobre taula"
+     alt="3D simulation of the base of the pedestals, minimum version to be able to connect on a table"
      width="800">
 
 The printed circuit board is 100 x 100 millimeters with chamfers of 3 x 3 millimeters on each side. Through holes of 3.2 millimeters in diameter are provided for mounting with metric 3 through screws. The centered location of the through holes is 90 x 90, that is, the four square centimeters of the four ends have the through holes centered.
