@@ -26,7 +26,7 @@ This topology modifies the classic connection form of the nexus, which instead o
      width="800">
      Logic can work despite having neither energy nor intelligence
 
-The pin connector, as seen in the previous photo, corresponds to what gamer devices should have, they are cheaper and easier to obtain. (Diotronic sells it, Barcelona - Spain) The links incorporate sockets where each link connects three sockets and a quarter of male pins for interconnection with the following links.
+The pin connector, as seen in the previous photo, corresponds to what the ludic computer must have, they are cheaper and easier to obtain. (Diotronic sells it, Barcelona - Spain) The links incorporate sockets where each link connects three sockets and a quarter of male pins for interconnection with the following links.
 
 <b>Reversible connector</b>
 
