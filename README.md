@@ -105,9 +105,9 @@ Systemic games have no player limit, so that the bus may require several physica
 
 <b>Hello world!</b>
 
-This is an idea I want to share, not only in the invented S80 format. I am developing the same idea for the S100 bus and although it seems practically impossible to do something like this I think I can achieve it.
+This is an idea I want to share, not only in the proposed S80 format. Will be developing the same idea for the S100 bus, a Retro versión of the non profit proposal, electronics adventure of the selve contructing computer.
 
-Are you joining LudiComputer?
+<b>Open to the LudiComputer experience!</b>
 
 <img src="https://www.microelectronicjb.com/wp-content/uploads/2021/11/LC-2.jpg"
      alt="Hello world!"
