@@ -1,1 +1,1 @@
-ludicoputer03.jpg
+ludicoputer.jpg
