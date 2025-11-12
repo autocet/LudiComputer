@@ -23,7 +23,7 @@ This topology modifies the classic connection form of the nexus, which instead o
 
 <img src="https://www.microelectronicjb.com/wp-content/uploads/2021/11/ResetLC01L.jpg"
      alt="Logic can work despite having neither energy nor intelligence"
-     width="800">
+     width="800"><br>
      Logic can work despite having neither energy nor intelligence
 
 The pin connector, as seen in the previous photo, corresponds to what the ludic computer must have, they are cheaper and easier to obtain. (Diotronic sells it, Barcelona - Spain) The links incorporate sockets where each link connects three sockets and a quarter of male pins for interconnection with the following links.
@@ -38,7 +38,7 @@ It follows that the four positives of 3V3 are central and central quarters (17, 
 
 <img src="https://www.microelectronicjb.com/wp-content/uploads/2025/07/pinoutS80.png"
      alt="S80 forms four groups of 20 pins in symmetrical arrangement"
-     width="800">
+     width="800"><br>
      S80 forms four groups of 20 pins in symmetrical arrangement
 
 <b>Divisibility of the S80 Bus</b>
@@ -51,7 +51,7 @@ With all that has been said so far, it is very easy to imagine a system with few
 
 <img src="https://www.microelectronicjb.com/wp-content/uploads/2021/11/S80LC01L-1.jpg"
      alt="S80 connector, 80 pins in 2 millimeter pitch and double row"
-     width="800">
+     width="800"><br>
      S80 connector, 80 pins in 2 millimeter pitch and double row
 
 
@@ -76,7 +76,7 @@ LC-5 Video games in remote mode<br>
 
 <img src="https://www.microelectronicjb.com/wp-content/uploads/2025/07/base_peanya.png"
      alt="3D simulation of the base of the pedestals, minimum version to be able to connect on a table"
-     width="800">
+     width="800"><br>
      3D simulation of the base of the pedestals, minimum version to be able to connect on a table
 
 The printed circuit board is 100 x 100 millimeters with chamfers of 3 x 3 millimeters on each side. Through holes of 3.2 millimeters in diameter are provided for mounting with metric 3 through screws. The centered location of the through holes is 90 x 90, that is, the four square centimeters of the four ends have the through holes centered.
@@ -87,7 +87,7 @@ The thickness of the printed circuit board must be the standard 1.66 millimeters
 
 <img src="https://www.microelectronicjb.com/wp-content/uploads/2025/07/footprintS80.png"
      alt="3D simulation of the base of the pedestals minimum version to be able to connect on a table"
-     width="800">
+     width="800"><br>
      Detail of the pin distribution on the corner of the board in a centered manner
 
 <b>The energy game</b>
@@ -98,7 +98,7 @@ High drop regulators tend to be very precise, on the other hand low drop regulat
 
 <img src="https://www.microelectronicjb.com/wp-content/uploads/2021/11/S803D.jpg"
      alt="Different 3D evolutions of the coupling between boards of the LudiComputer S80"
-     width="800">
+     width="800"><br>
      Different 3D evolutions of the coupling between boards of the LudiComputer S80
 
 <b>Extension</b>
@@ -107,7 +107,7 @@ Systemic games have no player limit, so that the bus may require several physica
 
 <img src="https://www.microelectronicjb.com/wp-content/uploads/2022/04/IMG_20220404_162818_550-scaled.jpg"
      alt="3D simulation of the base of the pedestals minimum version to be able to connect on a table"
-     width="800">
+     width="800"><br>
      Passive bus version
 
 <b>Hello world!</b>
@@ -118,7 +118,7 @@ This LudiComputer concept expressed in this article is mentioned without the int
 
 <img src="https://www.microelectronicjb.com/wp-content/uploads/2021/11/LC-2.jpg"
      alt="Hello world!"
-     width="800">
+     width="800"><br>
 
 <b>© Jordi Breu, 2021. This article is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</b>
 
