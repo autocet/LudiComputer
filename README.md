@@ -4,7 +4,7 @@ in an 80 pin, 2mm pitch, in a proposed S80 based bus</b>
 
 <b>It is an electronic unit built by the player himself</b>
 
-It is not just about playing, but also, above all, about building systemic computing machines embedded within minimum agreements.
+It is not just about playing, but also, and explicitly, about building systemic computing machines embedded within minimum agreements.
 
 In practice and as objectives, LudiComputers are: 
 fantastic calculators, 
