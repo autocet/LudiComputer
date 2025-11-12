@@ -16,7 +16,7 @@ and in general systems where the important thing is to have been the designer an
 
 <img src="image/ludicoputer03.jpg" alt="LudiComputer" width="800">
 
-<b>The S80 Bus</b>
+<b>LudiComputer S80 is designed for Hackathons</b>
 
 The LudiComputers with S80 base connector are units that communicate with each other through one or more central bases, called nexus.
 The nexus are electrically neutral, without power and havent only an LED that indicates the presence of energy on the bus supplied by one of the participants in the game. 
